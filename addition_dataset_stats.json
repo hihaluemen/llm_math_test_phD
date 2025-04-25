@@ -1,0 +1,44 @@
+{
+  "total_cases": 8000,
+  "total_unique_pairs": 2000,
+  "type_distribution": {
+    "numerical": 4000,
+    "symbolic": 4000
+  },
+  "order_distribution": {
+    "A+B": 4000,
+    "B+A": 4000
+  },
+  "digit_length_distribution": {
+    "1": 820,
+    "2": 828,
+    "3": 752,
+    "4": 432,
+    "5": 460,
+    "6": 480,
+    "7": 496,
+    "8": 432,
+    "9": 438,
+    "10": 462,
+    "11": 198,
+    "12": 148,
+    "13": 138,
+    "14": 174,
+    "15": 162,
+    "16": 158,
+    "17": 134,
+    "18": 162,
+    "19": 182,
+    "20": 142,
+    "21": 146,
+    "22": 158,
+    "23": 166,
+    "24": 164,
+    "25": 168
+  },
+  "symbolic_mapping_distribution": {
+    "special_char_map": 1298,
+    "letter_map": 1334,
+    "paper_example_map": 1368
+  }
+}
