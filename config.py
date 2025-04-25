@@ -13,12 +13,6 @@ DATASET_CONFIG = {
 
 # 模型配置
 MODELS = [
-    # {
-    #     "name": "gpt-4o",
-    #     "api_key": "sk-J8tvRGy9FAnB8rNie5pS64XUxOgBcmhlGioPmHC2FsxMPDOe",
-    #     "base_url": "https://www.dmxapi.cn/v1",  
-    #     "temperature": 0.0
-    # },
     {
         "name": "gpt-4o",
         "api_key": "sk-",
